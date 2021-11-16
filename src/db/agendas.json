@@ -1,0 +1,28 @@
+{
+  "agendas": [
+    {
+      "id": 10,
+      "title": "a",
+      "description": "aaa",
+      "status": "Todo",
+      "created": "2021-11-14",
+      "updated": "2021-11-16"
+    },
+    {
+      "id": 11,
+      "title": "b",
+      "description": "bbb",
+      "status": "In Progress",
+      "created": "2021-11-14",
+      "updated": "2021-11-16"
+    },
+    {
+      "id": 12,
+      "title": "c",
+      "description": "ccc",
+      "status": "Complete",
+      "created": "2021-11-16",
+      "updated": "2021-11-16"
+    }
+  ]
+}
